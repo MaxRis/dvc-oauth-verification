@@ -1,0 +1,7 @@
+md5: ffb9e259f627d43a8d021ffe91175327
+outs:
+- md5: f3003cb285d08f99f7edb1fe319e61af
+  path: setup.py
+  cache: true
+  metric: false
+  persist: false
